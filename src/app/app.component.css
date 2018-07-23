@@ -1,0 +1,13 @@
+.logo{
+  margin-left: 15%;
+}
+
+fa{
+  color: #cbcbcb;
+  margin-left: 45%;
+}
+
+fa:hover{
+  color: #9ed235;
+  cursor: pointer;
+}
