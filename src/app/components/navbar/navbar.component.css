@@ -1,0 +1,28 @@
+.navbar{
+  padding: 0px;
+  color: white;
+}
+
+.nav-item:hover{
+  background-color: #9ed235;
+}
+
+.form-control{
+  padding: 0px;
+}
+
+.btn{
+  padding: 0px;
+  color: white;
+  border: none;
+}
+
+.btn:hover{
+  color: #9ed235;
+  background-color: #0e4142;
+}
+
+.navbar-text{
+  margin-left: 90px;
+  margin-right: 90px;
+}
