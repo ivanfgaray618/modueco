@@ -6,6 +6,8 @@ import { AppRoutingModule, routingComponents } from './app.routing';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { ImageSliderComponent } from './components/image-slider/image-slider.component';
+import { ProductComponent } from './components/product/product.component';
+import { CartComponent } from './components/cart/cart.component';
 
 
 @NgModule({
@@ -13,7 +15,9 @@ import { ImageSliderComponent } from './components/image-slider/image-slider.com
     AppComponent,
     routingComponents,
     NavbarComponent,
-    ImageSliderComponent
+    ImageSliderComponent,
+    ProductComponent,
+    CartComponent
   ],
   imports: [
     BrowserModule,
