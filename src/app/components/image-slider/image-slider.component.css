@@ -11,3 +11,20 @@
   padding: 15px;
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%238f0' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
 }
+
+
+.carousel-caption{
+  left: 0;
+  width: 100%;
+  background-color: rgba(250,250,250,0.5);
+  color: #0e4142;
+}
+
+.carousel-caption h5{
+  font-weight: bold;
+  font-size: 35px;
+}
+.carousel-caption h5{
+  font-weight: bold;
+  font-size: 30px;
+}
